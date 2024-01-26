@@ -10,4 +10,4 @@ length =  len(endearment)
 print ("Printing only even index chars")
 for i in range (0, length - 1, 2):
 # then print the character at the even index
-    print ("index[", i, "]", endearment [i])
+    print (endearment [i])
